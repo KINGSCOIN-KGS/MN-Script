@@ -4,7 +4,7 @@ Shell script to install a [Kingscoin Masternode](https://www.kingscoin.biz/) on 
 
 ## VPS installation
 ```
-wget -N https://raw.githubusercontent.com/zoldur/Kingscoin/master/kingscoin_install.sh
+wget -N https://raw.githubusercontent.com/KINGSCOIN-KGS/MN-Script/master/kingscoin_install.sh
 bash kingscoin_install.sh
 ```
 ***
